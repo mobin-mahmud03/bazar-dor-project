@@ -17,7 +17,7 @@ Next.js (App Router) · Tailwind CSS · DaisyUI · Better Auth · MongoDB Atlas 
 
 
 npm install
-cp .env.example .env.local
 npm run dev
 
+Follow the localhost link
 
